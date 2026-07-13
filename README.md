@@ -4,8 +4,7 @@
   <a href="https://ayushmath07.github.io/portfolio/" target="_blank"><strong>Portfolio</strong></a> •
   <a href="https://ayushmath07.github.io/portfolio/resume.pdf" target="_blank"><strong>Resume</strong></a> •
   <a href="https://linkedin.com/in/ayushman-math" target="_blank"><strong>LinkedIn</strong></a> •
-  <a href="https://leetcode.com/ayushmath07" target="_blank"><strong>LeetCode</strong></a> •
-  <a href="https://auth.geeksforgeeks.org/user/ayushmwqwl" target="_blank"><strong>GeeksforGeeks</strong></a>
+  <a href="https://leetcode.com/ayushmath07" target="_blank"><strong>LeetCode</strong></a>
 </p>
 
 Third-year CS student (9.47 GPA) who defaults to the harder problems the kind where architecture decisions matter more than raw syntax.
